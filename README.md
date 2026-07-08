@@ -84,18 +84,7 @@ To improve transparency and interpretability, the project integrates:
 
 SHAP (SHapley Additive exPlanations): Highlights the image regions that contribute most to a prediction.
 LIME (Local Interpretable Model-agnostic Explanations): Explains individual predictions by identifying the most influential regions of an image.
-▶️ How to Run
-Clone the Repository
-git clone https://github.com/your-username/underwater-trash-detection.git
-cd underwater-trash-detection
-Install Dependencies
-pip install -r requirements.txt
-Run the Flask Application
-python app.py
 
-Open your browser and visit:
-
-http://127.0.0.1:5000
 📌 Future Enhancements
 Support additional underwater trash categories.
 Improve detection accuracy using larger datasets.
@@ -107,13 +96,9 @@ Upload an underwater image.
 Detect trash objects with bounding boxes.
 Display confidence scores and object counts.
 Visualize SHAP/LIME explanations for model predictions.
-👥 Team
 
-Group Project
+Individual Project
 
-📄 License
-
-This project is intended for academic and educational purposes.
 
 ⭐ Key Skills Demonstrated
 Deep Learning
